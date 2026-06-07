@@ -212,7 +212,7 @@ in contradiction with (A19). Hence,
 
 and $\mathbf{I}-\mathbf{R}^{C}$ is nonsingular.
 
-Since both $\mathbf{D}$ and $\mathbf{I}-\mathbf{R}^{C}$ are nonsingular, the recursive multiplier relation has the unique solution given by (A6). $\square$
+Since both $\mathbf{D}$ and $\mathbf{I}-\mathbf{R}^{C}$ are nonsingular, the recursive multiplier relation has the unique solution given by (A6).
 
 ---
 
@@ -228,7 +228,7 @@ Since both $\mathbf{D}$ and $\mathbf{I}-\mathbf{R}^{C}$ are nonsingular, the rec
 
 ### Proof
 
-Equation (A19) gives $\rho(\mathbf{R}^{C})<1$, which is the necessary and sufficient condition for convergence of the matrix geometric series in (A24). $\square$
+Equation (A19) gives $\rho(\mathbf{R}^{C})<1$, which is the necessary and sufficient condition for convergence of the matrix geometric series in (A24).
 
 Substituting (A24) into (A6) gives
 
