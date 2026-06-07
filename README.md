@@ -43,6 +43,14 @@ The same NCI caps are used in all three scenarios, so that the comparison focuse
 
 In the numerical studies, the active and reactive loads are scaled to 80% of the original IEEE 39 bus case. This load level is used consistently across all three scenarios.
 
+## Mathematical Proof
+
+The recursive decomposition of the CEF multiplier involves the diagonal power mixing matrix $\mathbf{D}$ and the CEF transfer matrix $\mathbf{R}^{C}$. Under the stated CEF transfer conditions, $\mathbf{D}$ and $\mathbf{I}-\mathbf{R}^{C}$ are nonsingular, ensuring that the recursive multiplier relation admits a unique compact form.
+
+A complete proof, including the required assumptions, spectral-radius argument, and scope of the result, is provided in:
+
+- [Proof of the Nonsingularity of D and I - R^C](./Proof_of_Nonsingularity.md)
+
 ## Usage
 
 Add the case files to the MATLAB path and load a scenario using MATPOWER:
